@@ -1,6 +1,6 @@
 # TeaSpoon Organisation
 
-**TeaSpoon** spezialisiert sich auf **Webseiten für kleine Unternehmen**. Unser Fokus liegt auf **klaren, einfachen Designs**, die den Charakter des Unternehmens widerspiegeln – für echte Menschen, nicht für Suchmaschinen oder KIs.
+**TeaSpoon** spezialisiert sich auf **Webseiten für kleine Unternehmen**. Der Fokus liegt auf **klaren, einfachen Designs**, die den Charakter des Unternehmens widerspiegeln – für echte Menschen, nicht für Suchmaschinen oder KIs.
 
 
 ## Mission
