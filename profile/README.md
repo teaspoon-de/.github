@@ -1,8 +1,7 @@
 # TeaSpoon Organisation
 
-Willkommen bei **TeaSpoon**, einer Organisation, die sich auf **Webseiten für kleine Unternehmen** spezialisiert hat. Unser Fokus liegt auf **klaren, einfachen Designs**, die den Charakter des Unternehmens widerspiegeln – für echte Menschen, nicht für Suchmaschinen oder KIs.
+**TeaSpoon** spezialisiert sich auf **Webseiten für kleine Unternehmen**. Unser Fokus liegt auf **klaren, einfachen Designs**, die den Charakter des Unternehmens widerspiegeln – für echte Menschen, nicht für Suchmaschinen oder KIs.
 
----
 
 ## Mission
 
@@ -10,7 +9,6 @@ Willkommen bei **TeaSpoon**, einer Organisation, die sich auf **Webseiten für k
 - Fokus auf **Ästhetik, Charakter und Persönlichkeit** der jeweiligen Marke.
 - Bereitstellung von **sauberen, wartbaren Code-Basen**, die leicht zu deployen sind.
 
----
 
 ## Struktur der Produktions-Server
 
@@ -29,24 +27,9 @@ Willkommen bei **TeaSpoon**, einer Organisation, die sich auf **Webseiten für k
   - Leicht modifiziertem PHP-Container (Repository: [prod-php](https://github.com/teaspoon-de/prod-php))
 - Sollte leicht als Template verwendet werden können
 
----
 
 ## Deployment
 
 - Globale Infrastruktur wird über `global-docker-setup` bereitgestellt und gepflegt
 - Neue Websites können über separate Repos in die globale Umgebung eingebunden werden
 - Deployment erfolgt über Docker Compose, GHCR und automatisierte Deploy-Skripte
-
----
-
-## Leitlinien
-
-- Design: **simpel, menschlich, charaktergetreu**
-- Code: **sauber, wartbar, reproduzierbar**
-- Deployment: **automatisiert, zuverlässig, sicher**
-
----
-
-## Zusammenfassung
-
-TeaSpoon steht für **Webseiten mit Charakter**, einfache und saubere Infrastruktur, und klare, wartbare Deployment-Prozesse. Alle Projekte sollen **leicht reproduzierbar und erweiterbar** sein, um neue Kunden schnell bedienen zu können.
